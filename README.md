@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhgu2000
-- 👀 I’m interested in programming languages, compilers and virtual machines.
-- 🌱 I’m currently studying for a master's degree in Sun Yat-sen Universty.
+- 👀 I’m interested in Linux containers, programming environment and compilers.
+- 🌱 I’m currently studying for a Ph'D degree in Sun Yat-sen Universty.
 - 📫 Welcome to contact me with my school email `guyh9@mail2.sysu.edu.cn`!
 
 <!---
